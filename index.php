@@ -1,5 +1,5 @@
 <html>
     <body>
-        Your IP <?php echo $_SERVER['REMOTE_ADDR'] ?>
+        Your IP test <?php echo $_SERVER['REMOTE_ADDR'] ?>
     </body>
 </html>
